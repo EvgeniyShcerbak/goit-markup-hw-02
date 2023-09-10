@@ -109,7 +109,7 @@ background-color: #404BBF;
      letter-spacing: 0.32px;
 }
 .section-our-team {
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
 }
 .our-team-list {
     background-color: #FFFFFF;
@@ -126,10 +126,4 @@ background-color: #404BBF;
      letter-spacing: 0.32px;}
 .logotype-span-footer {
     color: #F4F4FD;
-}
- .section-portfolio, 
- .name-title-list,
- .title-portfolio,
- .section-portfolio-list {
-    background-color: #FFFFFF
 }
