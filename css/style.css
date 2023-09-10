@@ -128,6 +128,8 @@ background-color: #404BBF;
     color: #F4F4FD;
 }
  .section-portfolio, 
- .name-title-list {
+ .name-title-list,
+ .title-portfolio,
+ .section-portfolio-list {
     background-color: #FFFFFF
 }
