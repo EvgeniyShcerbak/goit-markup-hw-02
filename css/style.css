@@ -109,9 +109,10 @@ background-color: #404BBF;
      letter-spacing: 0.32px;
 }
 .section-our-team {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD
 }
-.our-team-list {
+.our-team-list, 
+.our-team-item {
     background-color: #FFFFFF;
 }
 .page-footer {
